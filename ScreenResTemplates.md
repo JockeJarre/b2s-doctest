@@ -275,7 +275,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <table align="right">
   <tr>
     <td align="left"><img src="http://icons.iconarchive.com/icons/iconka/cat-commerce/48/add-icon.png"/></td>
-    <td align="right"><img src="http://icons.iconarchive.com/icons/iconka/cat-commerce/48/info-icon.png"/></td>
+    <td align="right" style="background-color:#ff0000;"><img src="http://icons.iconarchive.com/icons/iconka/cat-commerce/48/info-icon.png"/></td>
   </tr>
   <tr>
     <td colspan="2"><img src="http://icons.iconarchive.com/icons/shwz/disney/512/pumbaa-icon.png"/></td>
